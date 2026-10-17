@@ -37,7 +37,6 @@ describe how we work together.
 | --- | --- |
 | [USCE](https://github.com/UltraStar-CE/USCE) | The karaoke game, releases and community discussions |
 | [Themes](https://github.com/UltraStar-CE/Themes) | Themes, skins and artwork |
-| [MXE](https://github.com/UltraStar-CE/mxe) | Windows build dependencies |
 
 ## Credits
 
